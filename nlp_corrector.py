@@ -3,7 +3,6 @@
 
 # In[1]:
 
-pip install -r requirements.txt
 import streamlit as st
 from transformers import pipeline
 import nltk
